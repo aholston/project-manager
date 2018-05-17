@@ -1,3 +1,10 @@
+This is a simple project manager application in which you can add projects and delete projects. I built this in ReactJS as a learning utility. I followed this tutorial:
+
+https://www.youtube.com/watch?v=A71aqufiNtQ&t=2074s
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
